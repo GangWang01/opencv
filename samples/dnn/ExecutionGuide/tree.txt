@@ -1,0 +1,42 @@
+
+│
+├───AIModel
+│   └───face
+│           face_recognizer_fast.onnx
+│           yunet.onnx
+│
+└───example
+    │   command.txt
+    │
+    ├───Assets
+    │   └───obama
+    │           multiple1.jpg
+    │           multiple2.jpg
+    │           sample.PNG
+    │
+    └───Release
+            example_dnn_face_detect.exe
+            example_dnn_face_match.exe
+            opencv_calib3d454.dll
+            opencv_calib3d454.pdb
+            opencv_core454.dll
+            opencv_core454.pdb
+            opencv_dnn454.dll
+            opencv_dnn454.pdb
+            opencv_features2d454.dll
+            opencv_features2d454.pdb
+            opencv_flann454.dll
+            opencv_flann454.pdb
+            opencv_highgui454.dll
+            opencv_highgui454.pdb
+            opencv_imgcodecs454.dll
+            opencv_imgcodecs454.pdb
+            opencv_imgproc454.dll
+            opencv_imgproc454.pdb
+            opencv_objdetect454.dll
+            opencv_objdetect454.pdb
+            opencv_video454.dll
+            opencv_video454.pdb
+            opencv_videoio454.dll
+            opencv_videoio454.pdb
+            opencv_videoio_ffmpeg454_64.dll

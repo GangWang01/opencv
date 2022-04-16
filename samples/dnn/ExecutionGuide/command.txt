@@ -1,0 +1,4 @@
+
+
+.\Release\example_dnn_face_detect.exe -m=.\AIModel\face\yunet.onnx -i=.\Assets\obama\sample.jpg
+.\Release\example_dnn_face_match.exe .\AIModel\face\yunet.onnx .\AIModel\face\face_recognizer_fast.onnx .\Assets\obama\sample.PNG .\Assets\obama\multiple1.jpg
